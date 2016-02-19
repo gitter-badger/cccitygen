@@ -1,5 +1,7 @@
 
 # cccitygen
+
+[![Join the chat at https://gitter.im/viluon/cccitygen](https://badges.gitter.im/viluon/cccitygen.svg)](https://gitter.im/viluon/cccitygen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ComputerCraft Procedural City Generation Framework - taking city generation with command computers to the next level.
 
 [![GitHub issues](https://img.shields.io/github/issues/viluon/cccitygen.svg)](https://github.com/viluon/cccitygen/issues)
